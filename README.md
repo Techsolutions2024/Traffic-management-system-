@@ -1,11 +1,11 @@
 # Traffic-management-system-
 Traffic management system with computer vision 
 
-# YOLOv8-based Traffic Object Detection â€“ Intelligent Computer Vision for Smart Cities
+# YOLOv8-based Traffic Object Detection Intelligent Computer Vision for Smart Cities
 
 ## Project Introduction
 
-This project utilizes **YOLOv8 (You Only Look Once, version 8)** â€“ one of the most advanced real-time object detection models developed by **Ultralytics** â€“ to build a **computer vision system** capable of detecting and classifying multiple traffic-related objects in urban environments.
+This project utilizes **YOLOv8 (You Only Look Once, version 8)** one of the most advanced real-time object detection models developed by **Ultralytics** to build a **computer vision system** capable of detecting and classifying multiple traffic-related objects in urban environments.
 
 The model is optimized to recognize **nine (9) essential classes**, including:
 - Motorbike  
